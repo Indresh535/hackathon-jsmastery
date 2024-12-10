@@ -106,3 +106,14 @@ Check for firewalls blocking the traffic between the proxy server and the origin
 If the original domain appears in the browser:
 Ensure there are no absolute redirects in the original application.
 Let me know if you'd like additional guidance or assistance!
+
+
+ Carbon Footprint Tracker
+Category: Sustainability / IoT
+Description: An app that helps users track their carbon footprint based on their daily activities, including travel, energy consumption, and food habits. It could provide suggestions to reduce carbon emissions.
+Tech: React Native, APIs for transportation (Google Maps), Firebase
+
+. Real-Time Language Translator
+Category: AI / Language
+Description: Develop an app that provides real-time language translation using speech recognition. It could support voice conversations and display translations in text or audio.
+Tech: Google Translate API, React Native, WebRTC

@@ -5,7 +5,7 @@ Welcome to my personal portfolio! This project showcases my skills, experience, 
 ## Demo
 
 You can view the live demo of the portfolio at:  
-[https://your-portfolio-link.com](https://your-portfolio-link.com)
+[https://my-portfolio-delta-seven-29.vercel.app](https://my-portfolio-delta-seven-29.vercel.app)
 
 ## Features
 
@@ -29,5 +29,5 @@ To run this project locally:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/portfolio.git
+   git clone https://github.com/Indresh535/hackathon-jsmastery
 

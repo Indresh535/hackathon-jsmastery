@@ -30,4 +30,75 @@ To run this project locally:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/Indresh535/hackathon-jsmastery
+   ```
 
+2. **Navigate to the project directory**:
+   ```bash
+   cd hackathon-jsmastery
+   ```
+
+3. **Install dependencies**:
+   ```bash
+   npm install
+   ```
+
+4. **Run the development server**:
+   ```bash
+   npm run dev
+   ```
+
+   Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
+
+## Docker Setup
+
+To run this project using Docker:
+
+1. **Build the Docker image**:
+   ```bash
+   docker build -t my-portfolio .
+   ```
+
+2. **Run the Docker container**:
+   ```bash
+   docker run -p 3000:3000 my-portfolio
+   ```
+
+   Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
+
+3. **For development (optional)**:
+   ```bash
+   docker run -p 3000:3000 -v $(pwd):/app my-portfolio
+   ```
+
+## Project Overview
+
+### Pages
+
+- **Home**: Introduction to the portfolio and an overview of skills.
+- **About**: Detailed information about me, my journey, and expertise.
+- **Projects**: Showcase of my web development projects with links to GitHub or live demos.
+- **Contact**: A form to allow visitors to send messages directly to my email.
+- **Login**: Authentication for accessing personalized sections (optional).
+
+### Images
+
+#### Home Page:
+![Home Page](https://via.placeholder.com/600x400?text=Home+Page)
+
+#### Portfolio Section:
+![Portfolio Section](https://via.placeholder.com/600x400?text=Portfolio+Section)
+
+#### Project Section:
+![Project Section](https://via.placeholder.com/600x400?text=Project+Section)
+
+#### Contact Form:
+![Contact Form](https://via.placeholder.com/600x400?text=Contact+Form)
+
+#### Login Page:
+![Login Page](https://via.placeholder.com/600x400?text=Login+Page)
+
+---
+
+## License
+
+This project is open-source and available under the [MIT License](LICENSE).

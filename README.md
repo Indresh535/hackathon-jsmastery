@@ -13,6 +13,7 @@ You can view the live demo of the portfolio at:
 - **Dark Mode**: Switch between light and dark themes for a personalized experience.
 - **Project Showcase**: Displaying various web development projects with descriptions and links to GitHub repositories or live demos.
 - **About Me Section**: Learn more about my journey, skills, and experiences.
+- **Authentication**: Google and GitHub authentication for secure access.
 - **Contact Form**: A simple contact form for visitors to get in touch with me.
 
 ## Tech Stack
@@ -21,7 +22,18 @@ You can view the live demo of the portfolio at:
 - **Tailwind CSS**: Utility-first CSS framework for creating modern, responsive designs.
 - **React**: JavaScript library for building user interfaces.
 - **Vercel**: Platform used for deploying the app.
+- **mui/material**: Core Material UI components.
+- **react-three/drei**: Utilities for React Three Fiber.
+- **react-three/fiber**: React renderer for Three.js.
+- **reduxjs/toolkit**: State management with Redux.
+- **autoprefixer**: Adds vendor prefixes to CSS rules.
+- **axios**: Promise-based HTTP client.
+- **chart.js**: Simple yet flexible JavaScript charting library.
+- **crypto-js**: Library for cryptographic algorithms.
+- **firebase**: Backend services for building web and mobile applications.
+- **framer-motion**: Animation library for React.
 - **EmailJS**: Service for handling contact form submissions.
+- **Docker**: Containerization platform for running the app in isolated environments.
 
 ## Installation
 

@@ -10,6 +10,7 @@ You can view the live demo of the portfolio at:
 ## Features
 
 - **Responsive Design**: The portfolio is mobile-friendly and adapts to different screen sizes.
+- **Chat Bot**: The Chat Bot a Assistant to reply instantlyLearn more about my journey, skills, and experiences.
 - **Dark Mode**: Switch between light and dark themes for a personalized experience.
 - **Project Showcase**: Displaying various web development projects with descriptions and links to GitHub repositories or live demos.
 - **About Me Section**: Learn more about my journey, skills, and experiences.
@@ -135,9 +136,6 @@ To run this project using Docker:
 
 #### Contact Section (dark-Mode):
 ![Contact Section (dark-Mode)](https://github.com/Indresh535/hackathon-jsmastery/blob/main/public/images/contact-section-dark.png)
-
-#### Login Page (dark-Mode):
-![Login Page (dark-Mode)](https://github.com/Indresh535/hackathon-jsmastery/blob/main/public/images/login-page-dark.png)
 
 ---
 ## License

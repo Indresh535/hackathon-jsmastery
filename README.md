@@ -95,7 +95,10 @@ To run this project using Docker:
 ### Images
 
 #### Home Page:
-![Home Page](https://via.placeholder.com/600x400?text=Home+Page)
+![Home Page](https://github.com/Indresh535/hackathon-jsmastery/blob/main/public/images/my-portfolio.png)
+
+#### Home Page(dark-Mode):
+![Home Page Dark-Mode](https://github.com/Indresh535/hackathon-jsmastery/blob/main/public/images/my-portfolio-dark.png)
 
 #### Portfolio Section:
 ![Portfolio Section](https://via.placeholder.com/600x400?text=Portfolio+Section)

@@ -1,4 +1,4 @@
-# My Portfolio
+# Next-js 3D Portfolio
 
 Welcome to my personal portfolio! This project showcases my skills, experience, and work. Built using **Next.js**, it highlights various web development projects, the technologies I use, and provides ways to get in touch with me.
 
@@ -92,13 +92,10 @@ To run this project using Docker:
 - **Contact**: A form to allow visitors to send messages directly to my email.
 - **Login**: Authentication for accessing personalized sections (optional).
 
-### Images
+### Images Light Mode
 
 #### Home Page:
 ![Home Page](https://github.com/Indresh535/hackathon-jsmastery/blob/main/public/images/my-portfolio.png)
-
-#### Home Page(dark-Mode):
-![Home Page Dark-Mode](https://github.com/Indresh535/hackathon-jsmastery/blob/main/public/images/my-portfolio-dark.png)
 
 #### Hero Section:
 ![Hero Section](https://github.com/Indresh535/hackathon-jsmastery/blob/main/public/images/hero-section.png)
@@ -119,7 +116,30 @@ To run this project using Docker:
 ![Login Page](https://github.com/Indresh535/hackathon-jsmastery/blob/main/public/images/login-page.png)
 
 ---
+### Images Dark Mode
 
+#### Home Page (dark-Mode):
+![Home Page (dark-Mode)](https://github.com/Indresh535/hackathon-jsmastery/blob/main/public/images/my-portfolio-dark.png)
+
+#### Hero Section (dark-Mode):
+![Hero Section (dark-Mode)](https://github.com/Indresh535/hackathon-jsmastery/blob/main/public/images/hero-section-dark.png)
+
+#### Project Section (dark-Mode):
+![Project Section (dark-Mode)](https://github.com/Indresh535/hackathon-jsmastery/blob/main/public/images/projects-section-dark.png)
+
+#### About Section (dark-Mode):
+![About Section (dark-Mode)](https://github.com/Indresh535/hackathon-jsmastery/blob/main/public/images/about-section-dark.png)
+
+#### Certificates Section (dark-Mode):
+![Certificates Section (dark-Mode)](https://github.com/Indresh535/hackathon-jsmastery/blob/main/public/images/certificates-section-dark.png)
+
+#### Contact Section (dark-Mode):
+![Contact Section (dark-Mode)](https://github.com/Indresh535/hackathon-jsmastery/blob/main/public/images/contact-section-dark.png)
+
+#### Login Page (dark-Mode):
+![Login Page (dark-Mode)](https://github.com/Indresh535/hackathon-jsmastery/blob/main/public/images/login-page-dark.png)
+
+---
 ## License
 
 This project is open-source and available under the [MIT License](LICENSE).

@@ -1,8 +1,21 @@
 # Next-js 3D Portfolio
+<div align="center">
+  <img alt="Next-js 3D Portfolio" src="https://github.com/Indresh535/hackathon-jsmastery/blob/main/public/images/my-portfolio.png">
+</div>
 
+<div align="center">
+  <a href="https://my-portfolio-delta-seven-29.vercel.app">Home Page</a> |
+  <a href="https://www.linkedin.com/in/indresh-2208891a6">LinkedIn</a> |
+  <a href="https://github.com/Indresh535">Github</a>
+</div>
+
+---
+
+<div align="center"><strong>My Next-js 3D Personal Portfolio!</strong><br>
 Welcome to my personal portfolio! This project showcases my skills, experience, and work. Built using **Next.js**, it highlights various web development projects, the technologies I use, and provides ways to get in touch with me.
+</div>
 
-## Demo
+## Live Demo
 
 You can view the live demo of the portfolio at:  
 [https://my-portfolio-delta-seven-29.vercel.app](https://my-portfolio-delta-seven-29.vercel.app)

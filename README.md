@@ -100,17 +100,23 @@ To run this project using Docker:
 #### Home Page(dark-Mode):
 ![Home Page Dark-Mode](https://github.com/Indresh535/hackathon-jsmastery/blob/main/public/images/my-portfolio-dark.png)
 
-#### Portfolio Section:
-![Portfolio Section](https://via.placeholder.com/600x400?text=Portfolio+Section)
+#### Hero Section:
+![Hero Section](https://github.com/Indresh535/hackathon-jsmastery/blob/main/public/images/hero-section.png)
 
 #### Project Section:
-![Project Section](https://via.placeholder.com/600x400?text=Project+Section)
+![Project Section](https://github.com/Indresh535/hackathon-jsmastery/blob/main/public/images/projects-section.png)
 
-#### Contact Form:
-![Contact Form](https://via.placeholder.com/600x400?text=Contact+Form)
+#### About Section:
+![About Section](https://github.com/Indresh535/hackathon-jsmastery/blob/main/public/images/about-section.png)
+
+#### Certificates Section:
+![Certificates Section](https://github.com/Indresh535/hackathon-jsmastery/blob/main/public/images/certificates-section.png)
+
+#### Contact Section:
+![Contact Section](https://github.com/Indresh535/hackathon-jsmastery/blob/main/public/images/contact-section.png)
 
 #### Login Page:
-![Login Page](https://via.placeholder.com/600x400?text=Login+Page)
+![Login Page](https://github.com/Indresh535/hackathon-jsmastery/blob/main/public/images/login-page.png)
 
 ---
 
